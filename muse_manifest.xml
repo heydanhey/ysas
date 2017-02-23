@@ -1,0 +1,63 @@
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1433792960123">
+  <folder name="css">
+    <file name="site_global.css" crc="365011649"/>
+    <file name="master_a-master.css" crc="3960578765" ref="index:blog"/>
+    <file name="index.css" crc="3897972872" ref="index"/>
+    <file name="iefonts_index.css" crc="3955340577" ref="index"/>
+    <file name="blog.css" crc="7952456" ref="blog"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:blog"/>
+    <file name="museutils.js" crc="3777594392" ref="index:blog"/>
+    <file name="jquery.musemenu.js" crc="415733523" ref="index:blog"/>
+    <file name="jquery.watch.js" crc="4144919381" ref="index:blog"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4259541792" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="117544926" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:blog"/>
+    <file name="webpro.js" crc="474087315" ref="index"/>
+    <file name="musewpslideshow.js" crc="274584885" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="170414611" ref="index"/>
+    <file name="touchswipe.js" crc="100683906" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index:blog"/>
+  </folder>
+  <folder name="images">
+    <file name="stars.gif" crc="3952748121" ref="index:blog"/>
+    <file name="fb.png" crc="4260953643" ref="index"/>
+    <file name="youtube.png" crc="45311298" ref="index"/>
+    <file name="vimeo.png" crc="3821747352" ref="index"/>
+    <file name="facebook.png" crc="310291922" ref="index"/>
+    <file name="vimeo2.png" crc="4012710832" ref="index"/>
+    <file name="youtube2.png" crc="4216098865" ref="index"/>
+    <file name="instagram.png" crc="509288941" ref="index"/>
+    <file name="twitter.png" crc="397373269" ref="index"/>
+    <file name="texture.jpg" crc="3816586430" ref="index:blog"/>
+    <file name="icon-bandcampws.png" crc="435063192" ref="index"/>
+    <file name="texture 2.jpg" crc="351377668" ref="index:blog"/>
+    <file name="star5.png" crc="276052334" ref="index:blog"/>
+    <file name="kingsize-studio-blur2.jpg" crc="120256468" ref="index"/>
+    <file name="guitar_w.png" crc="3970850216" ref="index"/>
+    <file name="blur2.jpg" crc="512183504" ref="index"/>
+    <file name="icon-bandcamp.png" crc="4277601906" ref="index"/>
+    <file name="twitter2.png" crc="3994327958" ref="index"/>
+    <file name="instagramicon.png" crc="34705853" ref="index"/>
+    <file name="email.png" crc="70202629" ref="index"/>
+    <file name="vimeo1.jpg" crc="168923397" ref="index"/>
+    <file name="vimeo2.jpg" crc="390067172" ref="index"/>
+    <file name="yt.jpg" crc="3758729613" ref="index"/>
+    <file name="wood.jpg" crc="135832053" ref="index"/>
+    <file name="top.jpg" crc="4267643059" ref="index"/>
+    <file name="one.jpg" crc="4185544482" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="three.jpg" crc="3924523932" ref="index"/>
+    <file name="two.jpg" crc="244876761" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="instagram2.png" crc="4069155430" ref="index"/>
+    <file name="twitter3.png" crc="209716495" ref="index"/>
+    <file name="star.png" crc="193012477" ref="index"/>
+    <file name="band-ieu804-fr.png" crc="344375944" ref="index"/>
+    <file name="band.jpg" crc="72177668" ref="index"/>
+    <file name="the-young-stracke-all-stars-favicon.ico" crc="535791851" ref="index"/>
+  </folder>
+  <file name="index.html" crc="224293632" mt="1433792950200" redirect="true"/>
+  <file name="blog.html" crc="279643813" mt="1430764462166" redirect="true"/>
+</manifest>
